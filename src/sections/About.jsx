@@ -1,4 +1,4 @@
-import { Frameworks } from "../components/FrameWorks";
+import { Frameworks } from "../components/Frameworks";
 import { useRef } from "react";
 import Card from "../components/Card";
 import { Globe } from "../components/globe";
