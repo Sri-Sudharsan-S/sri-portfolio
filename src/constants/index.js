@@ -220,13 +220,4 @@ export const experiences = [
       "Built UI pages for the food delivery partner app such as payout, profile, and available orders pages, ensuring consistency and usability across platforms.",
     ],
   },
-  {
-    title: "Java Developer Intern",
-    job: "1/6/25 – Present",
-    date: "VCodez - Innovating Ideas, Chennai",
-    contents: [
-      "Currently undergoing training in Java development, focusing on core concepts, backend development, and best practices.",
-      "Expected to begin hands-on project development from mid-July, contributing to real-time applications and collaborative team efforts.",
-    ],
-  },
 ];

@@ -1,5 +1,5 @@
 import { motion } from "motion/react";
-import {FlipWords} from "./FilpWords";
+import { FlipWords } from "./FilpWords";
 
 const HeroText = () => {
   const words = ["Deploy", "Design", "Develop"];
